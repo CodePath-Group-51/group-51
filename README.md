@@ -1,5 +1,5 @@
-## APP_NAME_HERE
-WerkButty
+## WerkButty
+
 ### App Description
 Social media app to find someone to do workouts with in your location.  
 
