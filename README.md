@@ -9,7 +9,7 @@ Social media app to find someone to do workouts with in your location.
  - **Story:** Creates a community of people who like to workout with eachother
  - **Market:** Anyone who's lonely and needs a friend
  - **Habit:** Many young students think about working out but always looking for partners to workout with.
- - **Scope:** Directed towards all ages mainly young students and people who do not have a regular work out buddy.
+ - **Scope:** Directed towards all ages mainly young students and people who do not have a regular workout buddy.
 ---
 
 ### User Stories
