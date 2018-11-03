@@ -12,7 +12,7 @@ Social media app to find someone to do workouts with in your location.
  - **Scope:** Directed towards all ages mainly young students and people who do not have a regular workout buddy.
 ---
 
-### User Stories
+## 1. User Stories
 **Required Must-have Stories**
  * User can create profile (i.e.- progress)
  * User can login
@@ -42,7 +42,6 @@ Social media app to find someone to do workouts with in your location.
    * Add memberships
 
 ## 3. Navigation
-
 **Tab Navigation** (Tab to Screen)
  * Stream/Home
    * Profile Detail
