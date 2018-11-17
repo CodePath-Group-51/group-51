@@ -64,7 +64,7 @@ Social media app to find someone to do workouts with in your location.
 ---
 
 ### Wireframes
-<img src="yeet.gif">
+<img src="yeet.gif" width="200">
 
 ---
 
