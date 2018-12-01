@@ -72,4 +72,4 @@ Social media app to find someone to do workouts with in your location.
 ---
 
 ### App Pitch Presentation
-// TODO: Add link to Pitch Presentation Deck
+https://docs.google.com/presentation/d/1AN8Y022E-iQ0iRGAu2C4A2Rw-a4hiG6sJSAcjxtullI/edit?usp=sharing
